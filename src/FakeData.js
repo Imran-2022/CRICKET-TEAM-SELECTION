@@ -43,6 +43,6 @@ const FakeData = [
 
     { id: 21, name: "Abu Hider", cost: 1200, img: "https://www.mykhel.com/thumb/247x100x233/cricket/players/7/5557.1571724663.jpg" },
 
-    { id: 22, name: "Afif Hossain", cost: 1200, img: "https://www.mykhel.com/thumb/247x100x233/cricket/players/0/10830.1571724978.jpg" },
+    { id: 22, name: "shakib al hasan", cost: 1200, img: "https://images.news18.com/ibnlive/uploads/2021/08/1628597181_shakib-al-hasan.jpg" },
 ]
 export default FakeData;
